@@ -1,10 +1,10 @@
 ```
-~/imbisat-mahmood $ cat about.md
+~/imbisat-mahmood $ whoami
 ```
 
 # Imbisat Mahmood
 
-> I build things. Web apps, mobile apps, desktop tools, games  whatever the problem needs.  
+> I build things. Web apps, mobile apps, desktop tools— whatever the problem needs.  
 > CS student from Islamabad who follows the problem, not the stack.
 
 📍 Islamabad, Pakistan &nbsp;·&nbsp; 📬 [imbisatmahmood05@gmail.com](mailto:imbisatmahmood05@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/imbisat-mahmood-7219442a8)
