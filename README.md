@@ -1,60 +1,57 @@
-# Hi there! 👋  
+```
+~/imbisat-mahmood $ cat about.md
+```
 
-I'm **Imbisaat Mahmood**, a passionate Computer Science student at **COMSATS University Islamabad, Wah Campus (4th Semester)**. I have a keen interest in **software development, game design, and data analysis**.  
+# Imbisat Mahmood
 
-## 💻 Skills & Technologies  
-- **Programming Languages:** C++ (Basic), Java, Python, SQL  
-- **Software Development:** Object-Oriented Programming (OOP), Problem-Solving  
-- **Database Management:** MySQL  
-- **Game Development:** C++ (Graphics & Simulation)  
-- **Data Analysis:** Python (Pandas, Matplotlib, Seaborn)  
-- **Graphic Design & Multimedia:** Video Editing, Picture Editing, Promotional Graphics  
+> I build things. Web apps, mobile apps, desktop tools, games  whatever the problem needs.  
+> CS student from Islamabad who follows the problem, not the stack.
 
-## 🔹 Projects  
-### 🏦 Bank Management System (Java, MySQL)  
-A console-based banking application with features like:  
-✅ Account creation & management  
-✅ Deposits, withdrawals, and balance checks  
-✅ Transaction history stored in MySQL  
+📍 Islamabad, Pakistan &nbsp;·&nbsp; 📬 [imbisatmahmood05@gmail.com](mailto:imbisatmahmood05@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/imbisat-mahmood-7219442a8)
 
-🔗 **[View Repository](https://github.com/Imbisat-Mahmood/Bank-Management-System)**  
-
-### 🔤 Alphabet Collision Game (C++, SFML)  
-A fun, interactive game where:  
-🎮 Letters fall randomly from the top of the screen  
-⌨️ The player must type the correct letter to eliminate it  
-🏆 Scoring system based on accuracy and speed  
-
-🔗 **[View Repository](https://github.com/Imbisat-Mahmood/Alphabet-Collision-Game)**  
-
-### 🌍 Air Quality Data Analysis (Python, Pandas, Matplotlib)  
-A data analysis project that:  
-📊 Analyzes air pollution levels from real-world datasets  
-📈 Visualizes trends using line charts and heatmaps  
-🔍 Provides insights into air quality patterns  
-
-🔗 **[View Repository](https://github.com/Imbisat-Mahmood/Air-Quality-Data-Analysis)**  
-
-## 📫 Connect With Me  
-📍 Wah Cantt, Punjab, Pakistan  
-📧 **imbisatmahmood05@gmail.com**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/yourname)** | **[GitHub](https://github.com/Imbisat-Mahmood)**  
 
 ---
 
+## Things I've shipped
 
+| Project | What it does | Built with | Type |
+|---|---|---|:---:|
+| 🛒 **Evara** | Stationery e-commerce — full cart, orders, and product management | PHP · MySQL · HTML/CSS | solo |
+| ✈️ **PIA Airline System** | Desktop GUI for managing flights, passengers, and bookings | Java Swing · MySQL | solo |
+| 🏦 **Bank Management System** | Accounts, transactions, and customer records for a simulated bank | Java · MySQL | solo |
+| 🎮 **Alphabet Collision Game** | Real-time collision physics and animated gameplay | C++ · SFML | solo |
+| 🩸 **Blood Donation App** | Mobile app connecting donors and recipients with live matching | Flutter · Supabase · Dart | team |
+| 🌐 **AI Translator** | Multi-language translation tool powered by AI models | Python | team |
+| 🥐 **Bakery Management System** | Inventory and order system with a web frontend and ML backend | Laravel · Flask | team |
+| 🛡️ **Network Intrusion Detection** | ML model that classifies and flags malicious network traffic | Python · Scikit-learn | team |
 
-<!--
-**Imbisat-Mahmood/Imbisat-Mahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Languages    →  Java  C++  Python  PHP  Dart  HTML CSS
+Frontend     →  HTML  CSS  JavaScript
+Mobile       →  Flutter (Dart)
+Backend      →  Laravel  Flask  Java Swing
+Databases    →  MySQL  MongoDB  Supabase
+ML/AI        →  Scikit-learn  OpenCV  Google Colab
+Tools        →  Git  VS Code  CMake
+```
+
+---
+
+## Currently Learning
+
+- 📖 Going deeper into AI and Machine Learning
+- 🤝 Open to collaborating on anything interesting
+
+---
+
+## Let's Connect
+
+Every project above solves a real problem — not a tutorial, not a clone.  
+If you're working on something that needs someone who picks up new stacks fast and ships, let's talk.
+
+📬 [imbisatmahmood05@gmail.com](mailto:imbisatmahmood05@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/imbisat-mahmood-7219442a8)
+
