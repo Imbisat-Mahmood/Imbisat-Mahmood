@@ -2,7 +2,7 @@
 ~/imbisat-mahmood $ whoami
 ```
 
-# Imbisat Mahmood
+# Imbisat Mahmood 
 
 > I build things. Web apps, mobile apps, desktop tools— whatever the problem needs.  
 > CS student from Islamabad who follows the problem, not the stack.
